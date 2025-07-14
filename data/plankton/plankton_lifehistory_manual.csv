@@ -1,0 +1,116 @@
+Name,Site,Binomial2,Mass_g,MinAge_mo,dry_mass_ug,wet_mass_ug,vol_um3,Notes
+Asplanchna priodonta,Lake Geneva,Asplanchna priodonta,0.0000125,0.25,0.5,12.5,,Dumont et al 1975
+Bythotrephes longimanus,Lake Geneva,Bythotrephes longimanus,0.000965,0.18,,,,Branstrator 2005
+Cyclops prealpinus,Lake Geneva,Cyclops prealpinus,0.000023,0.91,,,,used value for other cyclops
+Cyclops vicinus,Lake Geneva,Cyclops vicinus,0.000023,0.91,,,,Gillooly 2000
+Eubosmina longispina,Lake Geneva,Eubosmina longispina,0.00002,0.1,,,,used value for Bosmina
+Eudiaptomus gracilis,Lake Geneva,Eudiaptomus gracilis,0.00005,0.65,,,,Dumont et al 1975
+Kellicottia longispina,Lake Geneva,Kellicottia longispina,0.0000025,0.167,,,,Makarewicz; https://doi.org/10.2307/1942575
+Keratella cochlearis,Lake Geneva,Keratella cochlearis,0.00000275,0.143,,,,Dumont et al 1975
+Leptodora kindtii,Lake Geneva,Leptodora kindtii,0.000185,0.2,,,,Branstrator 2005
+Polyarthra sp,Lake Geneva,Polyarthra sp,0.000006,0.04,,,,Foran King; https://doi.org/10.1080/02705060.1981.9664012
+Synchaeta sp,Lake Geneva,Synchaeta sp,0.00000675,0.037,,,,Dumont et al 1975
+Asplanchna priodonta,Lake Muggelsee,Asplanchna priodonta,0.0000125,0.25,,,,Dumont et al 1975
+Bosmina longirostris,Lake Muggelsee,Bosmina longirostris,0.00002,0.1,,,,Dumont et al 1975
+Brachionus angularis,Lake Muggelsee,Brachionus angularis,0.0000115,,0.46,11.5,,rotifer
+Conochilus unicornis,Lake Muggelsee,Conochilus unicornis,0.000004,,,,,"0.004 mm3; Schindler, D. W., & Novén, B. (1971). Vertical distribution and seasonal abundance of zooplankton in two shallow lakes of the Experimental Lakes Area, northwestern Ontario. Journal of the Fisheries Board of Canada, 28(2), 245-256."
+Cyclops vicinus,Lake Muggelsee,Cyclops vicinus,0.000023,0.91,,,,Gillooly 2000
+Daphnia cucullata,Lake Muggelsee,Daphnia cucullata,0.00003,,6,30,,"Burns, C. W. (2000). Crowding?induced changes in growth, reproduction and morphology of Daphnia. Freshwater Biology, 43(1), 19-29."
+Daphnia galeata,Lake Muggelsee,Daphnia galeata,0.00013,,26,130,,Dumont et al 1975
+Dreissena polymorpha larvae,Lake Muggelsee,Dreissena polymorpha larvae,NA,NA,,,,
+Eubosmina longicornis berolinensis,Lake Muggelsee,Eubosmina longicornis berolinensis,0.00002,0.1,,,,used value for other Eubosmina
+Eudiaptomus gracilis,Lake Muggelsee,Eudiaptomus gracilis,0.00005,0.65,,,,Dumont et al 1975
+Eudiaptomus graciloides,Lake Muggelsee,Eudiaptomus graciloides,0.00005,0.65,,,,used value for other Eudiaptomus
+Kellicottia longispina,Lake Muggelsee,Kellicottia longispina,0.0000025,0.167,,,,Makarewicz; https://doi.org/10.2307/1942575
+Keratella cochlearis,Lake Muggelsee,Keratella cochlearis,0.00000275,0.143,,,,Dumont et al 1975
+Keratella quadrata,Lake Muggelsee,Keratella quadrata,0.00000875,0.077,,,,Dumont et al 1975
+Leptodora kindtii,Lake Muggelsee,Leptodora kindtii,0.000185,0.2,,,,Branstrator 2005
+Mesocyclops leuckarti,Lake Muggelsee,Mesocyclops leuckarti,0.000036,,7.2,36,,Dumont et al 1975
+Polyarthra dolichoptera/vulgaris,Lake Muggelsee,Polyarthra dolichoptera/vulgaris,0.0000014,,,,,"0.0014 mm3; Schindler, D. W., & Novén, B. (1971). Vertical distribution and seasonal abundance of zooplankton in two shallow lakes of the Experimental Lakes Area, northwestern Ontario. Journal of the Fisheries Board of Canada, 28(2), 245-256."
+Pompholyx sulcata,Lake Muggelsee,Pompholyx sulcata,1.04E-07,,0.025,0.104166667,,rotifer
+Synchaeta oblonga,Lake Muggelsee,Synchaeta oblonga,0.00000675,0.037,,,,assumed same as S. sp
+Synchaeta pectinata,Lake Muggelsee,Synchaeta pectinata,0.00000675,0.037,,,,assumed same as S. sp
+Trichocerca similis,Lake Muggelsee,Trichocerca similis,0.0000001,,,,,"0.0001 mm3 (T. cylindrica); Schindler, D. W., & Novén, B. (1971). Vertical distribution and seasonal abundance of zooplankton in two shallow lakes of the Experimental Lakes Area, northwestern Ontario. Journal of the Fisheries Board of Canada, 28(2), 245-256."
+Bosmina.sp,Lake Zurich,Bosmina sp,0.00002,0.1,,,,Dumont et al 1975
+Daphn.pulex,Lake Zurich,Daphn pulex,0.000275,0.133,,,,Dumont et al 1975
+Mesoc.edax,Lake Zurich,Mesoc edax,0.0000174,0.573,,,,Rosen 1981
+Cyclops.abyssorum,Loch Leven,Cyclops abyssorum,0.0000515,,10.3,51.5,,Dumont et al 1975
+Eudiaptomus.gracilis,Loch Leven,Eudiaptomus gracilis,0.00005,0.65,,,,Dumont et al 1975
+Acartia.hudsonica,Narragansett Bay,Acartia hudsonica,0.00005,,10,50,,"Durbin, E. G., Durbin, A. G., & Campbell, R. G. (1992). Body size and egg production in the marine copepod Acartia hudsonica during a winter?spring diatom bloom in Narragansett Bay. Limnology and Oceanography, 37(2), 342-360."
+Acartia.tonsa,Narragansett Bay,Acartia tonsa,0.00002,,4,20,,"Huntley Lopez 1992, worms, Cohen Lough"
+Calanus.finmarchicus,North Sea,Calanus finmarchicus,0.002,1,,,,"Huntley Lopez 1992, worms, Cohen Lough"
+Calanus.helgolandicus,North Sea,Calanus helgolandicus,0.0008,,160,800,,"Bottrell, H. H., & Robins, D. B. (1984). Seasonal variations in length, dry weight, carbon and nitrogen of Calanus helgolandicus from the Celtic Sea. Marine ecology progress series. Oldendorf, 14(2), 259-268."
+Candacia.armata,North Sea,Candacia armata,0.001255,,251,1255,,Lindley et al. 1997
+Centropages.hamatus.,North Sea,Centropages hamatus ,0.000077,0.6,,,,"Huntley Lopez 1992, worms, Cohen Lough"
+Centropages.typicus.,North Sea,Centropages typicus ,0.00025,,50,250,,"Carlotti, F., Bonnet, D., & Halsband-Lenk, C. (2007). Development and growth rates of Centropages typicus. Progress in Oceanography, 72(2-3), 164-194."
+Ceratium.furca.,North Sea,Ceratium furca ,7.32E-08,,,,73236,Nordic microalgae; now Tripos
+Ceratium.fusus.,North Sea,Ceratium fusus ,2.38E-08,,,,23773,Nordic microalgae; now Tripos
+Ceratium.lineatum.,North Sea,Ceratium lineatum ,3.22E-08,,,,32211,Nordic microalgae; now Tripos
+Ceratium.longipes.,North Sea,Ceratium longipes ,8.51E-08,,,,85070,Nordic microalgae; now Tripos
+Ceratium.macroceros.,North Sea,Ceratium macroceros ,6.53E-08,,,,65256,Nordic microalgae; now Tripos
+Ceratium.tripos.,North Sea,Ceratium tripos ,0.0000005,0.14,,,,"Boulding, E. G., & Platt, T. (1986). Variation in photosynthetic rates among individual cells of a marine dinoflagellate. Mar. Ecol. Prog. Ser, 29, 199-203."
+Chaetoceros.Hyalochaete..spp.,North Sea,Chaetoceros Hyalochaete  spp ,NA,NA,,,,"subgenus, seems to be a lot of variation among species"
+Chaetoceros.Phaeoceros..spp.,North Sea,Chaetoceros Phaeoceros  spp ,NA,NA,,,,"subgenus, seems to be a lot of variation among species"
+Cirripede.larvae..Total.,North Sea,Cirripede larvae  Total ,NA,NA,,,,
+Coccolithaceae..Total.,North Sea,Coccolithaceae  Total ,NA,NA,,,,
+Cyphonautes,North Sea,Cyphonautes,NA,NA,,,,
+Decapoda.larvae..Total.,North Sea,Decapoda larvae  Total ,NA,NA,,,,
+Dinophysis.spp..Total,North Sea,Dinophysis spp  Total,2.74E-08,,,,27427,chose largest size
+Echinoderm.larvae,North Sea,Echinoderm larvae,NA,NA,,,,
+Evadne.spp.,North Sea,Evadne spp ,0.0000079,,1.58,7.9,,"marine cladoceran; Semmouri, I., Mortelmans, J., Roland, C., Janssen, C. R., & Asselman, J. (2024). Decadal trends and dynamics in the abundance and biomass of marine branchiopods in the southern part of the North Sea. Journal of Marine Systems, 103992."
+Fish.larvae,North Sea,Fish larvae,NA,NA,,,,
+Gammaridea,North Sea,Gammaridea,NA,NA,,,,
+Metridia.lucens,North Sea,Metridia lucens,0.00037,,74,370,,Lindley et al. 1997
+Odontella.sinensis.,North Sea,Odontella sinensis ,1.00E-06,,,,1000875,Nordic microalgae
+Oithona.spp.,North Sea,Oithona spp ,0.000024,1.05,,,,
+Para.Pseudocalanus.spp.,North Sea,Para Pseudocalanus spp ,0.00017,0.753,,,,used values from pseudocalanus
+Paralia.sulcata.,North Sea,Paralia sulcata ,3.14E-09,,,,3140,Nordic microalgae
+Podon.spp.,North Sea,Podon spp ,0.0000098,,1.96,9.8,,"marine cladoceran; Semmouri, I., Mortelmans, J., Roland, C., Janssen, C. R., & Asselman, J. (2024). Decadal trends and dynamics in the abundance and biomass of marine branchiopods in the southern part of the North Sea. Journal of Marine Systems, 103992."
+Proboscia.alata,North Sea,Proboscia alata,4.08E-07,,,,408200,Nordic microalgae
+Protoperidinium.spp..,North Sea,Protoperidinium spp  ,3.04E-07,,,,304188,Nordic microalgae
+Pseudocalanus.spp..Adult.Atlantic,North Sea,Pseudocalanus spp  Adult Atlantic,0.00017,0.753,,,,"Huntley Lopez 1992, worms, Cohen Lough"
+Rhizosolenia.imbricata,North Sea,Rhizosolenia imbricata,6.18E-08,,,,61819,Nordic microalgae
+Scrippsiella.spp..,North Sea,Scrippsiella spp  ,9.03E-09,,,,9026,"Nordic microalgae; dinoflagellate, diameter about 20 um"
+Silicoflagellates.,North Sea,Silicoflagellates ,3.35E-08,,,,33493,Nordic microalgae
+Skeletonema.costatum.,North Sea,Skeletonema costatum ,1.88E-08,,,,18849,"Nordic microalgae; approx with cylinder 60 um high, 20 um diameter"
+Thalassionema.nitzschioides.,North Sea,Thalassionema nitzschioides ,2.16E-09,,,,2160,Nordic microalgae;
+Thalassiosira.spp..,North Sea,Thalassiosira spp  ,2.36E-07,,,,235500,Nordic microalgae;
+Thecosomata..North.Atlantic.,North Sea,Thecosomata  North Atlantic ,NA,NA,,,,"sea butterflies, too broad"
+Tintinnida.Total,North Sea,Tintinnida Total,NA,NA,,,,
+Acartia.clausi,Port Erin Bay,Acartia clausi,0.000024,0.6333,,,,"Huntley Lopez 1992, worms, Cohen Lough"
+Biddulphia.mobiliensis,Port Erin Bay,Biddulphia mobiliensis,0.000000524,0.034,,,,"Trieres mobiliensis; size: Lavigne, A.s & Sunesen, Inés & Sar, Eugenia. (2015). Morphologic, taxonomic and nomenclatural analysis of species of Odontella, Trieres and Zygoceros (Triceratiaceae, Bacillariophyta) from Anegada Bay (Province of Buenos Aires, Argentina).. Diatom Research. 30. 10.1080/0269249X.2015.1110536. gen time: used B. regia of similar size; sphere estimate"
+Biddulphia.sinensis,Port Erin Bay,Biddulphia sinensis,0.00000107,0.04806,,,,Baars 1981; sphere estimate
+Centropages.hamatus,Port Erin Bay,Centropages hamatus,0.000077,0.6,,,,"Huntley Lopez 1992, worms, Cohen Lough"
+Ceratium.tripos,Port Erin Bay,Ceratium tripos,0.0000005,0.14,,,,"Boulding, E. G., & Platt, T. (1986). Variation in photosynthetic rates among individual cells of a marine dinoflagellate. Mar. Ecol. Prog. Ser, 29, 199-203."
+Chaetoceras.decipiens,Port Erin Bay,Chaetoceras decipiens,2.63E-08,0.03097,,,,Baars 1981; sphere estimate
+Coscinodiscus.concinnus,Port Erin Bay,Coscinodiscus concinnus,0.0000197,0.04417,,,,Baars 1981; sphere estimate
+Coscinodiscus.grani,Port Erin Bay,Coscinodiscus grani,0.00000184,0.0389,,,,Baars 1981; sphere estimate
+Coscinodiscus.radiatus,Port Erin Bay,Coscinodiscus radiatus,0.00000018,0.0375,,,,Baars 1981; sphere estimate
+Echinoderm.plutei,Port Erin Bay,Echinoderm plutei,NA,NA,,,,
+Gastropod.larvae,Port Erin Bay,Gastropod larvae,NA,NA,,,,
+Guinardia.flaccida,Port Erin Bay,Guinardia flaccida,6.82E-08,0.034861111,,,,Baars 1981; sphere estimate
+Lamellibranch.larvae,Port Erin Bay,Lamellibranch larvae,NA,NA,,,,
+Lauderia.borealis,Port Erin Bay,Lauderia borealis,2.25E-08,0.013472222,,,,Baars 1981; sphere estimate
+Medusoid.gonophores,Port Erin Bay,Medusoid gonophores,NA,NA,,,,
+Noctiluca.miliaris,Port Erin Bay,Noctiluca miliaris,0.000065,0.167,,,,"Noctiluca scintillans, sphere estimate, growth rate 0.2 per day; Nakamura, Y. (1998). Growth and grazing of a large heterotrophic dinoflagellate, Noctiluca scintillans, in laboratory cultures. Journal of Plankton Research, 20(9), 1711-1720."
+Oithona.similis,Port Erin Bay,Oithona similis,0.000024,1.05,,,,"Huntley Lopez 1992, worms, Cohen Lough"
+Paracalanus.parvus,Port Erin Bay,Paracalanus parvus,0.0000936,0.62,,,,"Huntley Lopez 1992, worms, Cohen Lough"
+Polychaete.larvae,Port Erin Bay,Polychaete larvae,NA,NA,,,,
+Pseudocalanus.elongatus,Port Erin Bay,Pseudocalanus elongatus,0.00017,0.753,,,,"Huntley Lopez 1992, worms, Cohen Lough"
+Rhizosolenia.shrubsolei,Port Erin Bay,Rhizosolenia shrubsolei,9.51E-10,0.0278,,,,Baars 1981; R. setigera congener of similar size; sphere estimate
+Sagitta.bipunctata,Port Erin Bay,Sagitta bipunctata,0.012,1,,,,"length: worms, S. elegans at lower latitude has similar adult size and gen time about 30 days (Tiselius Peterson 1986); ellipsoid mass"
+Temora.longicornis,Port Erin Bay,Temora longicornis,0.00012,0.687,,,,"Huntley Lopez 1992, worms, Cohen Lough"
+Acartia_sp,Wadden Sea,Acartia sp,0.000035,,,,,avg of other acartia
+Balanidae_nau,Wadden Sea,Balanidae nau,NA,NA,,,,
+Bivalvia_larv,Wadden Sea,Bivalvia larv,NA,NA,,,,
+C_hamatus,Wadden Sea,C hamatus,0.000077,0.6,,,,"Huntley Lopez 1992, worms, Cohen Lough"
+Gastrop_larv,Wadden Sea,Gastrop larv,NA,NA,,,,
+Harpacticoida,Wadden Sea,Harpacticoida,0.00006255,,12.51,62.55,,Dumont et al 1975
+N_scintillans,Wadden Sea,N scintillans,0.000065,0.167,,,,"Noctiluca scintillans, sphere estimate, growth rate 0.2 per day; Nakamura, Y. (1998). Growth and grazing of a large heterotrophic dinoflagellate, Noctiluca scintillans, in laboratory cultures. Journal of Plankton Research, 20(9), 1711-1720."
+O_dioica,Wadden Sea,O dioica,0.0002,,,,,"Oikopleura dioica, larvacean, body volume about 0.2 mm3; Lombard, F., Renaud, F., Sainsbury, C., Sciandra, A., & Gorsky, G. (2009). Appendicularian ecophysiology I: Food concentration dependent clearance rate, assimilation efficiency, growth and reproduction of Oikopleura dioica. Journal of Marine Systems, 78(4), 606-616."
+Oithona_sp,Wadden Sea,Oithona sp,0.000024,1.05,,,,
+P_elongatus,Wadden Sea,P elongatus,0.00017,0.753,,,,Pseudocalanus elongatus
+Paracalanus_sp,Wadden Sea,Paracalanus sp,0.0000936,0.62,,,,used value for P. parvus
+R_oktopunctata,Wadden Sea,R oktopunctata,0.01675,,,,,"Rathkea octopunctata, hydrozoan 4 mm diameter according to sealifebase, hemisphere 16.75 mm3"
+Rotatoria,Wadden Sea,Rotatoria,NA,NA,,,,
+Spionida_nektoch,Wadden Sea,Spionida nektoch,NA,NA,,,,

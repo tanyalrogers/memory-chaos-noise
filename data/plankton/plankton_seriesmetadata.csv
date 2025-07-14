@@ -1,0 +1,145 @@
+"Site","Name","Level","data_rescale_case","tslength","ndatapoints","longestrun","propmissing","nruns10","effectivenE2","Country","Type","Redistributable","Lat","Lon","Mass_g","MinAge_mo","SamplingInterval","mo_timestep","monotonic"
+"Lake Geneva","Asplanchna priodonta","SP",3,718,585,130,0.185236768802228,13,515,"Switzerland/France","Lake","no",46.43,6.55,1.25e-05,0.25,"monthly",1,0.285519264318988
+"Lake Geneva","Bythotrephes longimanus","SP",3,718,639,167,0.110027855153203,13,564,"Switzerland/France","Lake","no",46.43,6.55,0.000965,0.18,"monthly",1,0.0950694615149243
+"Lake Geneva","Conochilus sp","SP",3,718,563,108,0.215877437325905,13,493,"Switzerland/France","Lake","no",46.43,6.55,NA,NA,"monthly",1,0.263921876357483
+"Lake Geneva","Cyclops prealpinus","SP",3,419,272,108,0.350835322195704,6,252,"Switzerland/France","Lake","no",46.43,6.55,2.3e-05,0.91,"monthly",1,0.363149897748549
+"Lake Geneva","Cyclops vicinus","SP",3,375,337,108,0.101333333333333,9,310,"Switzerland/France","Lake","no",46.43,6.55,2.3e-05,0.91,"monthly",1,-0.474811059022777
+"Lake Geneva","Eubosmina longispina","SP",2,419,381,108,0.0906921241050119,10,349,"Switzerland/France","Lake","no",46.43,6.55,2e-05,0.1,"monthly",1,-0.200014385767005
+"Lake Geneva","Eudiaptomus gracilis","SP",3,718,639,167,0.110027855153203,13,564,"Switzerland/France","Lake","no",46.43,6.55,5e-05,0.65,"monthly",1,0.283430112993615
+"Lake Geneva","Kellicottia longispina","SP",3,718,601,167,0.162952646239554,12,533,"Switzerland/France","Lake","no",46.43,6.55,2.5e-06,0.167,"monthly",1,0.298632919016684
+"Lake Geneva","Keratella cochlearis","SP",3,718,480,167,0.331476323119777,8,425,"Switzerland/France","Lake","no",46.43,6.55,2.75e-06,0.143,"monthly",1,0.252592234915789
+"Lake Geneva","Keratella quadrata","SP",3,718,480,167,0.331476323119777,8,425,"Switzerland/France","Lake","no",46.43,6.55,NA,NA,"monthly",1,0.265152809327764
+"Lake Geneva","Leptodora kindtii","SP",3,703,630,167,0.103840682788051,13,560,"Switzerland/France","Lake","no",46.43,6.55,0.000185,0.2,"monthly",1,0.0105853735441514
+"Lake Geneva","Polyarthra sp","SP",3,718,480,167,0.331476323119777,8,425,"Switzerland/France","Lake","no",46.43,6.55,6e-06,0.04,"monthly",1,0.390827675864092
+"Lake Geneva","Synchaeta sp","SP",3,718,480,167,0.331476323119777,8,425,"Switzerland/France","Lake","no",46.43,6.55,6.75e-06,0.037,"monthly",1,0.416444484868243
+"Loch Leven","Cyclops.abyssorum","SP",3,372,261,60,0.298387096774194,8,240,"Scotland","Lake","yes",56.194,-3.375,5.15e-05,NA,"monthly",1,-0.258946547440088
+"Loch Leven","Eudiaptomus.gracilis","SP",3,372,261,60,0.298387096774194,8,240,"Scotland","Lake","yes",56.194,-3.375,5e-05,0.65,"monthly",1,0.0436331281927391
+"Lake Zurich","Bosmina.sp","SP",1,233,219,99,0.0600858369098712,3,211,"Switzerland","Lake","yes",47.235,8.698,2e-05,0.1,"monthly",1,-0.0609335068479104
+"Lake Zurich","Bytho.long","SP",3,233,219,99,0.0600858369098712,3,211,"Switzerland","Lake","yes",47.235,8.698,NA,NA,"monthly",1,0.134227897132894
+"Lake Zurich","Cyclo.abyss","SP",3,233,219,99,0.0600858369098712,3,211,"Switzerland","Lake","yes",47.235,8.698,NA,NA,"monthly",1,-0.169538659965696
+"Lake Zurich","Cyclo.bohat","SP",3,233,219,99,0.0600858369098712,3,211,"Switzerland","Lake","yes",47.235,8.698,NA,NA,"monthly",1,0.370365050381557
+"Lake Zurich","Cyclo.vicin","SP",3,233,197,91,0.15450643776824,3,187,"Switzerland","Lake","yes",47.235,8.698,NA,NA,"monthly",1,0.297851391194481
+"Lake Zurich","Daphn.hyali","SP",3,188,138,91,0.265957446808511,2,130,"Switzerland","Lake","yes",47.235,8.698,NA,NA,"monthly",1,0.175736025042
+"Lake Zurich","Daphn.pulex","SP",3,185,141,95,0.237837837837838,3,132,"Switzerland","Lake","yes",47.235,8.698,0.000275,0.133,"monthly",1,-0.541645855858229
+"Lake Zurich","Eudiapt.graci","SP",1,233,219,99,0.0600858369098712,3,211,"Switzerland","Lake","yes",47.235,8.698,NA,NA,"monthly",1,-0.145418801209285
+"Lake Zurich","Mesoc.edax","SP",3,233,219,99,0.0600858369098712,3,211,"Switzerland","Lake","yes",47.235,8.698,1.74e-05,0.573,"monthly",1,0.244256328451378
+"Lake Muggelsee","Asplanchna priodonta","SP",3,477,462,381,0.0314465408805031,5,447,"Germany","Lake","no",52.437,13.646,1.25e-05,0.25,"monthly",1,0.042599803578062
+"Lake Muggelsee","Bosmina longirostris","SP",3,462,447,381,0.0324675324675325,4,432,"Germany","Lake","no",52.437,13.646,2e-05,0.1,"monthly",1,0.0440575793372145
+"Lake Muggelsee","Brachionus angularis","SP",3,477,447,361,0.0628930817610063,5,430,"Germany","Lake","no",52.437,13.646,1.15e-05,NA,"monthly",1,-0.346274935139018
+"Lake Muggelsee","Brachionus calyciflorus","SP",3,477,444,356,0.0691823899371069,5,427,"Germany","Lake","no",52.437,13.646,NA,NA,"monthly",1,-0.0264239142836322
+"Lake Muggelsee","Chydorus sphaericus","SP",3,477,442,331,0.0733752620545073,6,425,"Germany","Lake","no",52.437,13.646,NA,NA,"monthly",1,-0.340727623288744
+"Lake Muggelsee","Conochilus unicornis","SP",3,477,462,381,0.0314465408805031,5,447,"Germany","Lake","no",52.437,13.646,4e-06,NA,"monthly",1,0.15654339815344
+"Lake Muggelsee","Cyclops vicinus","SP",3,477,462,381,0.0314465408805031,5,447,"Germany","Lake","no",52.437,13.646,2.3e-05,0.91,"monthly",1,-0.376196379974845
+"Lake Muggelsee","Daphnia cucullata","SP",3,463,431,248,0.0691144708423326,5,414,"Germany","Lake","no",52.437,13.646,3e-05,NA,"monthly",1,-0.19229639934893
+"Lake Muggelsee","Daphnia galeata","SP",3,460,445,381,0.0326086956521739,4,430,"Germany","Lake","no",52.437,13.646,0.00013,NA,"monthly",1,-0.466830756487175
+"Lake Muggelsee","Dreissena polymorpha larvae","SP",3,477,462,381,0.0314465408805031,5,447,"Germany","Lake","no",52.437,13.646,NA,NA,"monthly",1,0.12001688528165
+"Lake Muggelsee","Eubosmina coregoni","SP",3,464,449,381,0.0323275862068966,4,434,"Germany","Lake","no",52.437,13.646,NA,NA,"monthly",1,-0.269292955588163
+"Lake Muggelsee","Eubosmina longicornis berolinensis","SP",3,368,318,244,0.135869565217391,2,314,"Germany","Lake","no",52.437,13.646,2e-05,0.1,"monthly",1,-0.0434389513138047
+"Lake Muggelsee","Eudiaptomus gracilis","SP",3,477,462,381,0.0314465408805031,5,447,"Germany","Lake","no",52.437,13.646,5e-05,0.65,"monthly",1,-0.14306025130929
+"Lake Muggelsee","Eudiaptomus graciloides","SP",3,417,394,304,0.0551558752997602,4,384,"Germany","Lake","no",52.437,13.646,5e-05,0.65,"monthly",1,-0.148435908893689
+"Lake Muggelsee","Kellicottia longispina","SP",3,432,417,336,0.0347222222222222,5,402,"Germany","Lake","no",52.437,13.646,2.5e-06,0.167,"monthly",1,-0.229926437296868
+"Lake Muggelsee","Keratella cochlearis","SP",3,477,462,381,0.0314465408805031,5,447,"Germany","Lake","no",52.437,13.646,2.75e-06,0.143,"monthly",1,-0.169163202388894
+"Lake Muggelsee","Keratella quadrata","SP",3,477,462,381,0.0314465408805031,5,447,"Germany","Lake","no",52.437,13.646,8.75e-06,0.077,"monthly",1,-0.214202768390308
+"Lake Muggelsee","Leptodora kindtii","SP",3,477,462,381,0.0314465408805031,5,447,"Germany","Lake","no",52.437,13.646,0.000185,0.2,"monthly",1,-0.038308238084762
+"Lake Muggelsee","Mesocyclops leuckarti","SP",3,477,462,381,0.0314465408805031,5,447,"Germany","Lake","no",52.437,13.646,3.6e-05,NA,"monthly",1,-0.0196424949177116
+"Lake Muggelsee","Polyarthra dolichoptera/vulgaris","SP",3,477,462,381,0.0314465408805031,5,447,"Germany","Lake","no",52.437,13.646,1.4e-06,NA,"monthly",1,0.0284697251494741
+"Lake Muggelsee","Pompholyx sulcata","SP",3,477,462,381,0.0314465408805031,5,447,"Germany","Lake","no",52.437,13.646,1.04e-07,NA,"monthly",1,-0.275809364569067
+"Lake Muggelsee","Synchaeta oblonga","SP",3,372,348,192,0.0645161290322581,2,344,"Germany","Lake","no",52.437,13.646,6.75e-06,0.037,"monthly",1,-0.0114227798331011
+"Lake Muggelsee","Synchaeta pectinata","SP",3,477,462,381,0.0314465408805031,5,447,"Germany","Lake","no",52.437,13.646,6.75e-06,0.037,"monthly",1,0.190942049699962
+"Lake Muggelsee","Trichocerca similis","SP",3,477,462,381,0.0314465408805031,5,447,"Germany","Lake","no",52.437,13.646,1e-07,NA,"monthly",1,0.0225193537474229
+"Narragansett Bay","Acartia.hudsonica","SP",3,177,168,75,0.0508474576271186,3,160,"RI, United States","Marine","yes",41.567,-71.384,5e-05,NA,"monthly",1,0.0333595689790335
+"Narragansett Bay","Acartia.tonsa","SP",3,177,168,75,0.0508474576271186,3,160,"RI, United States","Marine","yes",41.567,-71.384,2e-05,NA,"monthly",1,0.224254535002146
+"North Sea","Paralia.sulcata.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,3.14e-09,NA,"monthly",1,0.112032025018581
+"North Sea","Skeletonema.costatum.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,1.88e-08,NA,"monthly",1,-0.00174827043559404
+"North Sea","Thalassiosira.spp..","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,2.36e-07,NA,"monthly",1,0.185089099707307
+"North Sea","Rhizosolenia.styliformis.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,NA,NA,"monthly",1,-0.113912865633859
+"North Sea","Rhizosolenia.hebetata.semispina.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,NA,NA,"monthly",1,-0.0596561723835706
+"North Sea","Chaetoceros.Hyalochaete..spp.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,NA,NA,"monthly",1,-0.188227065556718
+"North Sea","Chaetoceros.Phaeoceros..spp.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,NA,NA,"monthly",1,-0.179982642450299
+"North Sea","Odontella.sinensis.","SP",3,672,656,428,0.0238095238095238,2,652,"","Marine","no",56.3,3.4,1e-06,NA,"monthly",1,0.0251532458543377
+"North Sea","Thalassionema.nitzschioides.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,2.16e-09,NA,"monthly",1,-0.0472006772534702
+"North Sea","Proboscia.alata","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,4.08e-07,NA,"monthly",1,-0.0606311358988638
+"North Sea","Pseudo.nitzschia.delicatissima.complex","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,NA,NA,"monthly",1,0.0391482288243513
+"North Sea","Pseudo.nitzschia.seriata.complex.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,NA,NA,"monthly",1,0.157136041450344
+"North Sea","Rhizosolenia.imbricata","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,6.18e-08,NA,"monthly",1,0.029462129512305
+"North Sea","Coccolithaceae..Total.","SP",3,251,251,251,0,1,249,"","Marine","no",56.3,3.4,NA,NA,"monthly",1,0.485405020432767
+"North Sea","Silicoflagellates.","SP",3,252,252,252,0,1,250,"","Marine","no",56.3,3.4,3.35e-08,NA,"monthly",1,0.0964605229926311
+"North Sea","Ceratium.fusus.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,2.38e-08,NA,"monthly",1,-0.223890038103048
+"North Sea","Ceratium.furca.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,7.32e-08,NA,"monthly",1,-0.263637805070805
+"North Sea","Ceratium.lineatum.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,3.22e-08,NA,"monthly",1,-0.123051171706787
+"North Sea","Ceratium.tripos.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,5e-07,0.14,"monthly",1,-0.12436892141546
+"North Sea","Ceratium.macroceros.","SP",3,672,650,389,0.0327380952380952,2,646,"","Marine","no",56.3,3.4,6.53e-08,NA,"monthly",1,-0.285128048856247
+"North Sea","Ceratium.horridum.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,NA,NA,"monthly",1,-0.0327123918098941
+"North Sea","Ceratium.longipes.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,8.51e-08,NA,"monthly",1,-0.235762490305565
+"North Sea","Dinophysis.spp..Total","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,2.74e-08,NA,"monthly",1,-0.0519834416272362
+"North Sea","Protoperidinium.spp..","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,3.04e-07,NA,"monthly",1,-0.0844538103303817
+"North Sea","Scrippsiella.spp..","SP",3,377,377,377,0,1,375,"","Marine","no",56.3,3.4,9.03e-09,NA,"monthly",1,-0.0197460153745571
+"North Sea","Tintinnida.Total","SP",3,251,251,251,0,1,249,"","Marine","no",56.3,3.4,NA,NA,"monthly",1,-0.204024483747164
+"North Sea","Oithona.spp.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,2.4e-05,1.05,"monthly",1,-0.367584885625756
+"North Sea","Pseudocalanus.spp..Adult.Atlantic","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,0.00017,0.753,"monthly",1,-0.193355505439783
+"North Sea","Para.Pseudocalanus.spp.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,0.00017,0.753,"monthly",1,-0.273604936837548
+"North Sea","Temora.longicornis","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,NA,NA,"monthly",1,0.186548021129159
+"North Sea","Centropages.typicus.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,0.00025,NA,"monthly",1,0.253198272003302
+"North Sea","Centropages.hamatus.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,7.7e-05,0.6,"monthly",1,-0.06101273969218
+"North Sea","Calanus.finmarchicus","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,0.002,1,"monthly",1,-0.465524102662248
+"North Sea","Calanus.helgolandicus","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,8e-04,NA,"monthly",1,0.391897179936193
+"North Sea","Metridia.lucens","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,0.00037,NA,"monthly",1,0.126572419678177
+"North Sea","Candacia.armata","SP",3,672,611,399,0.0907738095238095,3,603,"","Marine","no",56.3,3.4,0.001255,NA,"monthly",1,0.294941744216264
+"North Sea","Podon.spp.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,9.8e-06,NA,"monthly",1,0.0906156547090627
+"North Sea","Evadne.spp.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,7.9e-06,NA,"monthly",1,-0.040147853880942
+"North Sea","Cyphonautes","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,NA,NA,"monthly",1,0.121418046611801
+"North Sea","Echinoderm.larvae","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,NA,NA,"monthly",1,0.155140630282831
+"North Sea","Gammaridea","SP",3,672,615,400,0.0848214285714286,3,608,"","Marine","no",56.3,3.4,NA,NA,"monthly",1,-0.131374091268654
+"North Sea","Hyperiidea..Total.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,NA,NA,"monthly",1,0.0509471614293445
+"North Sea","Decapoda.larvae..Total.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,NA,NA,"monthly",1,0.0920313952640964
+"North Sea","Cirripede.larvae..Total.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,NA,NA,"monthly",1,0.0317335110858235
+"North Sea","Appendicularia","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,NA,NA,"monthly",1,0.20617876980784
+"North Sea","Bivalvia.larvae","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,NA,NA,"monthly",1,-0.205893756122916
+"North Sea","Thecosomata..North.Atlantic.","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,NA,NA,"monthly",1,-0.0667908332680884
+"North Sea","Fish.larvae","SP",3,672,672,672,0,1,670,"","Marine","no",56.3,3.4,NA,NA,"monthly",1,0.00320153888500404
+"Port Erin Bay","Chaetoceras.decipiens","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,2.63e-08,0.03097,"monthly",1,0.219879432884805
+"Port Erin Bay","Chaetoceras.debile","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,NA,NA,"monthly",1,0.158622773438222
+"Port Erin Bay","Chaetoceras.teres","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,NA,NA,"monthly",1,-0.00081085759768214
+"Port Erin Bay","Rhizosolenia.semispina","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,NA,NA,"monthly",1,-0.181448455437864
+"Port Erin Bay","Rhizosolenia.shrubsolei","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,9.51e-10,0.0278,"monthly",1,0.0507323739809949
+"Port Erin Bay","Rhizosolenia.stolterfothii","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,NA,NA,"monthly",1,0.0293528225136342
+"Port Erin Bay","Coscinodiscus.concinnus","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,1.97e-05,0.04417,"monthly",1,0.243987044563542
+"Port Erin Bay","Coscinodiscus.radiatus","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,1.8e-07,0.0375,"monthly",1,0.348570115499704
+"Port Erin Bay","Coscinodiscus.grani","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,1.84e-06,0.0389,"monthly",1,0.265826708118532
+"Port Erin Bay","Biddulphia.mobiliensis","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,5.24e-07,0.034,"monthly",1,0.138812311528103
+"Port Erin Bay","Biddulphia.sinensis","SP",2,134,134,134,0,1,132,"Isle of Man","Marine","yes",54.088,-4.768,1.07e-06,0.04806,"monthly",1,-0.208283786364191
+"Port Erin Bay","Guinardia.flaccida","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,6.82e-08,0.034861111,"monthly",1,0.395664806769091
+"Port Erin Bay","Lauderia.borealis","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,2.25e-08,0.013472222,"monthly",1,0.110950552101313
+"Port Erin Bay","Ceratium.tripos","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,5e-07,0.14,"monthly",1,0.509662705029369
+"Port Erin Bay","Noctiluca.miliaris","SP",2,156,156,156,0,1,154,"Isle of Man","Marine","yes",54.088,-4.768,6.5e-05,0.167,"monthly",1,0.0284968591911354
+"Port Erin Bay","Paracalanus.parvus","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,9.36e-05,0.62,"monthly",1,0.13472622436844
+"Port Erin Bay","Pseudocalanus.elongatus","SP",1,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,0.00017,0.753,"monthly",1,0.275002900521253
+"Port Erin Bay","Oithona.similis","SP",1,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,2.4e-05,1.05,"monthly",1,0.225312242722131
+"Port Erin Bay","Acartia.clausi","SP",1,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,2.4e-05,0.6333,"monthly",1,0.16211927391643
+"Port Erin Bay","Calanus.finmarchicus","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,NA,NA,"monthly",1,-0.136584347934263
+"Port Erin Bay","Centropages.hamatus","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,7.7e-05,0.6,"monthly",1,0.0312731299505849
+"Port Erin Bay","Temora.longicornis","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,0.00012,0.687,"monthly",1,0.0909120582076016
+"Port Erin Bay","Echinoderm.plutei","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,NA,NA,"monthly",1,0.181220238894192
+"Port Erin Bay","Polychaete.larvae","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,NA,NA,"monthly",1,0.321438164402907
+"Port Erin Bay","Lamellibranch.larvae","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,NA,NA,"monthly",1,0.31795087739987
+"Port Erin Bay","Gastropod.larvae","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,NA,NA,"monthly",1,0.259082565776208
+"Port Erin Bay","Sagitta.bipunctata","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,0.012,1,"monthly",1,-0.0945504226539573
+"Port Erin Bay","Medusoid.gonophores","SP",2,168,168,168,0,1,166,"Isle of Man","Marine","yes",54.088,-4.768,NA,NA,"monthly",1,0.132236662171658
+"Wadden Sea","Acartia_sp","SP",3,116,114,98,0.0172413793103448,2,108,"","Marine","yes",55.03,8.46,3.5e-05,NA,"monthly",1,-0.060856931623775
+"Wadden Sea","Balanidae_nau","SP",3,116,114,98,0.0172413793103448,2,108,"","Marine","yes",55.03,8.46,NA,NA,"monthly",1,-0.0325948288577967
+"Wadden Sea","Bivalvia_larv","SP",3,116,114,98,0.0172413793103448,2,108,"","Marine","yes",55.03,8.46,NA,NA,"monthly",1,-0.372550284192395
+"Wadden Sea","C_hamatus","SP",3,116,114,98,0.0172413793103448,2,108,"","Marine","yes",55.03,8.46,7.7e-05,0.6,"monthly",1,-0.209574772522708
+"Wadden Sea","Gastrop_larv","SP",3,116,114,98,0.0172413793103448,2,108,"","Marine","yes",55.03,8.46,NA,NA,"monthly",1,-0.140160130262916
+"Wadden Sea","Harpacticoida","SP",3,116,114,98,0.0172413793103448,2,108,"","Marine","yes",55.03,8.46,6.255e-05,NA,"monthly",1,-0.31155154033884
+"Wadden Sea","Membranipora_larv","SP",3,116,114,98,0.0172413793103448,2,108,"","Marine","yes",55.03,8.46,NA,NA,"monthly",1,-0.21374727290533
+"Wadden Sea","N_scintillans","SP",3,116,114,98,0.0172413793103448,2,108,"","Marine","yes",55.03,8.46,6.5e-05,0.167,"monthly",1,-0.10098877097658
+"Wadden Sea","O_dioica","SP",3,116,114,98,0.0172413793103448,2,108,"","Marine","yes",55.03,8.46,2e-04,NA,"monthly",1,-0.138351878325448
+"Wadden Sea","Oithona_sp","SP",3,116,114,98,0.0172413793103448,2,108,"","Marine","yes",55.03,8.46,2.4e-05,1.05,"monthly",1,-0.278203303139787
+"Wadden Sea","P_elongatus","SP",3,116,114,98,0.0172413793103448,2,108,"","Marine","yes",55.03,8.46,0.00017,0.753,"monthly",1,-0.161473820180905
+"Wadden Sea","P_parvus","SP",3,116,114,98,0.0172413793103448,2,108,"","Marine","yes",55.03,8.46,NA,NA,"monthly",1,-0.125831348851038
+"Wadden Sea","Paracalanus_sp","SP",3,116,114,98,0.0172413793103448,2,108,"","Marine","yes",55.03,8.46,9.36e-05,0.62,"monthly",1,-0.498494831218149
+"Wadden Sea","R_oktopunctata","SP",3,116,114,98,0.0172413793103448,2,108,"","Marine","yes",55.03,8.46,0.01675,NA,"monthly",1,-0.140880075446863
+"Wadden Sea","Rotatoria","SP",3,116,114,98,0.0172413793103448,2,108,"","Marine","yes",55.03,8.46,NA,NA,"monthly",1,-0.229528864771288
+"Wadden Sea","Spionida_nektoch","SP",3,116,114,98,0.0172413793103448,2,108,"","Marine","yes",55.03,8.46,NA,NA,"monthly",1,-0.298072763562258
+"Wadden Sea","T_longicornis","SP",3,116,114,98,0.0172413793103448,2,108,"","Marine","yes",55.03,8.46,NA,NA,"monthly",1,-0.23036793897419
+"Wadden Sea","Turbellaria","SP",3,116,114,98,0.0172413793103448,2,108,"","Marine","yes",55.03,8.46,NA,NA,"monthly",1,-0.295105301998929

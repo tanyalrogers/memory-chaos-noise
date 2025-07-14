@@ -1,0 +1,115 @@
+Binomial,Common_name,Family,Class,Binomial2,Mass_g,MinAge_mo
+Alosa_pseudoharengus,Alewife,Clupeidae,Actinopteri,Alosa pseudoharengus,NA,30.00
+Anguilla_anguilla,European eel,Anguillidae,Actinopteri,Anguilla anguilla,NA,132.00
+Anguilla_rostrata,American eel,Anguillidae,Actinopteri,Anguilla rostrata,7300.0,132.00
+Anoplopoma_fimbria,Sablefish,Anoplopomatidae,Actinopteri,Anoplopoma fimbria,NA,63.60
+Aspidophoroides_monopterygius,Alligatorfish,Agonidae,Actinopteri,Aspidophoroides monopterygius,NA,56.40
+Chrysophrys_auratus,Silver seabream,Sparidae,Actinopteri,Chrysophrys auratus,20000.0,NA
+Clupea_harengus,Atlantic herring,Clupeidae,Actinopteri,Clupea harengus,1100.0,38.40
+Clupea_pallasii,Pacific herring,Clupeidae,Actinopteri,Clupea pallasii,965.5,44.40
+Cyclopterus_lumpus,Lumpfish / Lumpsucker,Cyclopteridae,Actinopteri,Cyclopterus lumpus,NA,41.50
+Enchelyopus_cimbrius,Fourbeard rockling,Lotidae,Actinopteri,Enchelyopus cimbrius,350.3,36.00
+Gadus_chalcogrammus,Alaska pollock / Walleye pollock,Gadidae,Actinopteri,Gadus chalcogrammus,7338.1,48.00
+Gadus_morhua,Atlantic cod / Cod,Gadidae,Actinopteri,Gadus morhua,15540.1,48.00
+Glyptocephalus_cynoglossus,Witch flounder,Pleuronectidae,Actinopteri,Glyptocephalus cynoglossus,NA,91.54
+Hemitripterus_americanus,Sea raven,Hemitripteridae,Actinopteri,Hemitripterus americanus,4587.1,12.00
+Hippoglossoides_platessoides,American plaice,Pleuronectidae,Actinopteri,Hippoglossoides platessoides,NA,91.45
+Istiompax_indica,Black marlin,Istiophoridae,Actinopteri,Istiompax indica,NA,NA
+Kajikia_audax,Striped marlin,Istiophoridae,Actinopteri,Kajikia audax,NA,NA
+Lepidopsetta_bilineata,Rock sole,Pleuronectidae,Actinopteri,Lepidopsetta bilineata,2511.7,108.00
+Lepidopsetta_polyxystra,Northern rock sole,Pleuronectidae,Actinopteri,Lepidopsetta polyxystra,NA,84.00
+Lophius_americanus,American angler,Lophiidae,Actinopteri,Lophius americanus,17642.0,64.40
+Makaira_nigricans,Blue marlin,Istiophoridae,Actinopteri,Makaira nigricans,NA,NA
+Melanogrammus_aeglefinus,Haddock,Gadidae,Actinopteri,Melanogrammus aeglefinus,4438.5,36.16
+Merluccius_bilinearis,Silver hake / Whiting,Merlucciidae,Actinopteri,Merluccius bilinearis,3385.8,19.80
+Merluccius_gayi,South Pacific hake / Peruvian hake,Merlucciidae,Actinopteri,Merluccius gayi,12163.9,NA
+Micropterus_dolomieu,Smallmouth bass,Centrarchidae,Actinopteri,Micropterus dolomieu,4171.5,81.60
+Myoxocephalus_octodecemspinosus,Longhorn sculpin,Cottidae,Actinopteri,Myoxocephalus octodecemspinosus,1108.0,64.50
+Myzopsetta_ferruginea,Yellowtail flounder,Pleuronectidae,Actinopteri,Myzopsetta ferruginea,2427.0,NA
+Nemadactylus_macropterus,Tarakihi,Latridae,Actinopteri,Nemadactylus macropterus,NA,NA
+Nezumia_bairdii,Marlin-spike grenadier,Macrouridae,Actinopteri,Nezumia bairdii,361.0,48.00
+Oncorhynchus_keta,Chum salmon,Salmonidae,Actinopteri,Oncorhynchus keta,15900.0,39.00
+Oncorhynchus_kisutch,Coho salmon,Salmonidae,Actinopteri,Oncorhynchus kisutch,15200.0,36.00
+Oncorhynchus_nerka,Sockeye salmon / Red salmon,Salmonidae,Actinopteri,Oncorhynchus nerka,1400.0,24.00
+Oncorhynchus_tshawytscha,Chinook salmon,Salmonidae,Actinopteri,Oncorhynchus tshawytscha,61400.0,48.80
+Osmerus_mordax,Rainbow smelt,Osmeridae,Actinopteri,Osmerus mordax,NA,NA
+Parophrys_vetulus,English sole,Pleuronectidae,Actinopteri,Parophrys vetulus,1202.2,36.00
+Perca_flavescens,American yellow perch,Percidae,Actinopteri,Perca flavescens,1786.1,44.40
+Phycis_chesteri,Longfin hake,Phycidae,Actinopteri,Phycis chesteri,NA,42.00
+Platycephalus_richardsoni,Tiger flathead,Platycephalidae,Actinopteri,Platycephalus richardsoni,NA,NA
+Pseudopleuronectes_americanus,Winter flounder,Pleuronectidae,Actinopteri,Pseudopleuronectes americanus,3600.0,33.80
+Reinhardtius_hippoglossoides,Greenland halibut,Pleuronectidae,Actinopteri,Reinhardtius hippoglossoides,NA,112.99
+Salvelinus_namaycush,Lake trout,Salmonidae,Actinopteri,Salvelinus namaycush,32700.0,78.00
+Sander_vitreus,Walleye,Percidae,Actinopteri,Sander vitreus,11300.0,44.40
+Scomber_japonicus,Chub mackerel,Scombridae,Actinopteri,Scomber japonicus,2900.0,24.00
+Scomber_scombrus,Atlantic mackerel,Scombridae,Actinopteri,Scomber scombrus,3400.0,26.16
+Triglops_murrayi,Moustache sculpin,Cottidae,Actinopteri,Triglops murrayi,70.9,42.00
+Urophycis_chuss,Red hake,Phycidae,Actinopteri,Urophycis chuss,3600.0,20.10
+Urophycis_tenuis,White hake,Phycidae,Actinopteri,Urophycis tenuis,21000.0,16.80
+Xiphias_gladius,Swordfish,Xiphiidae,Actinopteri,Xiphias gladius,650000.0,66.00
+Zoarces_americanus,Ocean pout,Zoarcidae,Actinopteri,Zoarces americanus,5400.0,18.00
+Anas_acuta,Northern pintail,Anatidae,Aves,Anas acuta,872.3,7.89
+Anas_crecca,Common teal,Anatidae,Aves,Anas crecca,343.8,8.93
+Anas_platyrhynchos,Mallard,Anatidae,Aves,Anas platyrhynchos,1121.0,12.00
+Anser_albifrons,Greater white-fronted goose,Anatidae,Aves,Anser albifrons,2387.5,36.00
+Anser_brachyrhynchus,Pink-footed goose,Anatidae,Aves,Anser brachyrhynchus,2707.5,36.00
+Anser_caerulescens,Snow goose,Anatidae,Aves,Anser caerulescens,2630.8,33.08
+Anser_fabalis,Bean goose,Anatidae,Aves,Anser fabalis,2933.0,35.92
+Aptenodytes_forsteri,Emperor penguin,Spheniscidae,Aves,Aptenodytes forsteri,29750.0,60.00
+Atrichornis_clamosus,Noisy scrub-bird,Atrichornithidae,Aves,Atrichornis clamosus,41.5,23.90
+Aythya_americana,Redhead,Anatidae,Aves,Aythya americana,1056.3,12.00
+Aythya_ferina,Common pochard,Anatidae,Aves,Aythya ferina,853.5,12.00
+Aythya_fuligula,Tufted duck,Anatidae,Aves,Aythya fuligula,701.5,12.00
+Aythya_valisineria,Canvasback,Anatidae,Aves,Aythya valisineria,1218.7,9.92
+Branta_bernicla,Brent goose,Anatidae,Aves,Branta bernicla,1347.3,24.00
+Branta_canadensis,Canada goose,Anatidae,Aves,Branta canadensis,3984.5,24.00
+Branta_leucopsis,Barnacle goose,Anatidae,Aves,Branta leucopsis,1708.5,24.00
+Bubo_bubo,Eurasian eagle-owl,Strigidae,Aves,Bubo bubo,2533.0,24.00
+Bubulcus_ibis,Cattle egret,Ardeidae,Aves,Bubulcus ibis,372.0,20.96
+Catharacta_skua,Great skua,Stercorariidae,Aves,Catharacta skua,1420.3,59.90
+Ciconia_ciconia,White stork,Ciconiidae,Aves,Ciconia ciconia,3350.0,42.01
+Clangula_hyemalis,Long-tailed duck,Anatidae,Aves,Clangula hyemalis,814.0,23.95
+Cygnus_columbianus,Tundra swan,Anatidae,Aves,Cygnus columbianus,6350.0,32.91
+Eudromias_morinellus,Eurasian dotterel,Charadriidae,Aves,Eudromias morinellus,108.5,23.90
+Falco_peregrinus,Peregrine falcon,Falconidae,Aves,Falco peregrinus,827.3,23.90
+Haliaeetus_leucocephalus,Bald eagle,Accipitridae,Aves,Haliaeetus leucocephalus,4740.0,48.00
+Limosa_haemastica,Hudsonian godwit,Scolopacidae,Aves,Limosa haemastica,255.5,NA
+Mareca_americana,American wigeon,Anatidae,Aves,Mareca americana,786.0,11.97
+Mareca_penelope,Eurasian wigeon,Anatidae,Aves,Mareca penelope,757,12.00
+Mareca_strepera,Gadwall,Anatidae,Aves,Mareca strepera,850.0,7.89
+Netta_rufina,Red-crested pochard,Anatidae,Aves,Netta rufina,1118.0,12.00
+Pelecanus_crispus,Dalmatian pelican,Pelecanidae,Aves,Pelecanus crispus,8700.0,32.94
+Platalea_leucorodia,Eurasian spoonbill,Threskiornithidae,Aves,Platalea leucorodia,1868.0,36.00
+Pygoscelis_adeliae,Adelie penguin,Spheniscidae,Aves,Pygoscelis adeliae,4850.0,44.93
+Rissa_tridactyla,Black-legged kittiwake,Laridae,Aves,Rissa tridactyla,407.8,54.02
+Scolopax_minor,American woodcock,Scolopacidae,Aves,Scolopax minor,196.3,10.91
+Spatula_clypeata,Northern shoveler,Anatidae,Aves,Spatula clypeata,613.0,7.89
+Spatula_discors,Blue-winged teal,Anatidae,Aves,Spatula discors,398.5,9.92
+Tadorna_tadorna,Common shelduck,Anatidae,Aves,Tadorna tadorna,1094.0,24.00
+Thalasseus_sandvicensis,Sandwich tern,Laridae,Aves,Thalasseus sandvicensis,208.0,29.95
+Vanellus_vanellus,Northern lapwing,Charadriidae,Aves,Vanellus vanellus,218.0,23.95
+Amblyraja_radiata,Starry ray,Rajidae,Elasmobranchii,Amblyraja radiata,NA,107.63
+Carcharodon_carcharias,Great white shark,Lamnidae,Elasmobranchii,Carcharodon carcharias,3154039.1,NA
+Dipturus_laevis,Barndoor skate,Rajidae,Elasmobranchii,Dipturus laevis,NA,128.00
+Leucoraja_ocellata,Winter skate,Rajidae,Elasmobranchii,Leucoraja ocellata,NA,138.00
+Malacoraja_senta,Smooth skate,Rajidae,Elasmobranchii,Malacoraja senta,NA,102.82
+Sphyrna_zygaena,Smooth hammerhead,Sphyrnidae,Elasmobranchii,Sphyrna zygaena,400000.0,NA
+Alces_alces,Elk / moose,Cervidae,Mammalia,Alces alces,351000.0,23.39
+Antilocapra_americana,Pronghorn,Antilocapridae,Mammalia,Antilocapra americana,45375.0,17.78
+Bison_bonasus,European bison,Bovidae,Mammalia,Bison bonasus,624577.1,29.98
+Canis_lupus,Grey wolf / Gray wolf,Canidae,Mammalia,Canis lupus,29190.8,22.02
+Capra_ibex,Alpine ibex,Bovidae,Mammalia,Capra ibex,77000.0,26.89
+Capreolus_capreolus,European roe deer,Cervidae,Mammalia,Capreolus capreolus,21666.7,13.58
+Cervus_elaphus,Red deer / Elk,Cervidae,Mammalia,Cervus elaphus,160166.7,28.01
+Halichoerus_grypus,Grey seal,Phocidae,Mammalia,Halichoerus grypus,197570.0,49.29
+Lynx_lynx,Eurasian lynx,Felidae,Mammalia,Lynx lynx,21150.0,21.01
+Myodes_glareolus,Bank vole,Cricetidae,Mammalia,Myodes glareolus,20.8,1.55
+Myodes_rufocanus,Grey-sided vole / Grey red-backed vole,Cricetidae,Mammalia,Myodes rufocanus,27.5,2.82
+Odocoileus_virginianus,White-tailed deer,Cervidae,Mammalia,Odocoileus virginianus,65320.0,10.16
+Orcinus_orca,Killer whale / Orca,Delphinidae,Mammalia,Orcinus orca,4300000.0,138.31
+Ovibos_moschatus,Musk ox,Bovidae,Mammalia,Ovibos moschatus,312500.0,37.35
+Pan_troglodytes,Chimpanzee,Hominidae,Mammalia,Pan troglodytes,44983.5,119.57
+Panthera_leo,African lion / Asiatic lion,Felidae,Mammalia,Panthera leo,149062.0,36.00
+Rupicapra_rupicapra,Tatra chamois / Alpine chamois,Bovidae,Mammalia,Rupicapra rupicapra,35383.2,22.16
+Sus_scrofa,Wild boar / Wild pig,Suidae,Mammalia,Sus scrofa,135000.0,10.98
+Petromyzon_marinus,Sea lamprey,Petromyzontidae,Petromyzonti,Petromyzon marinus,2500.0,84.00
