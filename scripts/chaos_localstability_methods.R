@@ -72,7 +72,6 @@ besthyper=function(
   serlen=max(len$lengths[len$values==TRUE])
 
   #range of E, tau, theta to try
-  #max is currently hard coded, but could be changed/added as an argument
   if(!is.null(taufix)) {
     tautry=taufix #set tau to fixed value
   } else {

@@ -28,6 +28,9 @@ allresults_filt %>% filter(theta>0) %>% nrow() / nrow(allresults_filt)
 #prop chaotic
 table(allresults_filt$Group, allresults_filt$JLEsign)
 
+#colors
+stabilitycols=rev(RColorBrewer::brewer.pal(3, "Set1"))
+
 # overall best R2 ####
 
 #with smoother and quantreg, monthly
@@ -39,6 +42,7 @@ table(allresults_filt$Group, allresults_filt$JLEsign)
     geom_smooth(color="black", method="lm", formula = y ~ poly(x, 2), se = T, linewidth=0.75) +
     geom_point(aes(color=TaxonomicGroup, shape=TaxonomicGroup), alpha=0.6, size=2) +
     geom_hline(yintercept = 0, color="gray20") + geom_vline(xintercept = 0, color="gray20") +
+    annotate("text", x=c(-0.4,0,0.4), y=1.05, label=c("stable","neutral","unstable"), color=stabilitycols) +
     scale_color_brewer(palette = "Dark2") +
     labs(x=expression(LE~(month^-1)), y="NSE (full model)", color="Taxonomic\nGroup", shape="Taxonomic\nGroup") +
     classic + removefacetbackground)
@@ -83,6 +87,7 @@ p1s2=ggplot() +
   geom_hline(yintercept = 0, color="gray20") + geom_vline(xintercept = 0, color="gray20") +
   scale_color_brewer(palette = "Dark2") +
   scale_size_continuous(range = c(1,5)) +
+  annotate("text", x=c(-0.4,0,0.4), y=0.85, label=c("stable","neutral","unstable"), color=stabilitycols) +
   labs(color="Taxonomic\nGroup", #fill="Sign.\nMemory",
        x=expression(LE~(month^-1)), y=expression(Delta~NSE~(full-"1d")), size="NSE (full)") +
   classic + removefacetbackground +
@@ -98,6 +103,7 @@ p1s3=ggplot(allresults_filt %>% filter(abs(JLEmean_mo)<0.2),
   geom_hline(yintercept = 0, color="gray20") + geom_vline(xintercept = 0, color="gray20") +
   scale_color_brewer(palette = "Dark2") +
   scale_size_continuous(range = c(1,5)) +
+  annotate("text", x=c(-0.12,0,0.12), y=0.85, label=c("stable","neutral","unstable"), color=stabilitycols) +
   labs(color="Taxonomic\nGroup", #fill="Sign.\nMemory",
        x=expression(LE~(month^-1)), y=expression(Delta~NSE~(full-"1d")), size="NSE (full)") +
   classic + removefacetbackground +
@@ -161,6 +167,7 @@ p2s2=ggplot(allresults_filt %>% filter(JLEmean_mo<1),
   geom_hline(yintercept = 0, color="gray20") + geom_vline(xintercept = 0, color="gray20") +
   scale_color_brewer(palette = "Dark2") +
   scale_size_continuous(range = c(1,5)) +
+  annotate("text", x=c(-0.4,0,0.4), y=0.85, label=c("stable","neutral","unstable"), color=stabilitycols) +
   labs(color="Taxonomic\nGroup",
        x=expression(LE~(month^-1)), y=expression(Delta~NSE~(full-linear)), size="NSE (full)") +
   classic + removefacetbackground +
@@ -177,6 +184,7 @@ p2s3=ggplot(allresults_filt %>% filter(abs(JLEmean_mo)<0.2),
   geom_hline(yintercept = 0, color="gray20") + geom_vline(xintercept = 0, color="gray20") +
   scale_color_brewer(palette = "Dark2") +
   scale_size_continuous(range = c(1,5)) +
+  annotate("text", x=c(-0.12,0,0.12), y=0.85, label=c("stable","neutral","unstable"), color=stabilitycols) +
   labs(color="Taxonomic\nGroup",
        x=expression(LE~(month^-1)), y=expression(Delta~NSE~(full-linear)), size="NSE (full)") +
   classic + removefacetbackground +
@@ -241,7 +249,7 @@ b20=ggplot(allresults_filt %>% filter(theta>0), aes(fill=JLEsign2,y=diffAR, x=Gr
 
 f31=(p1s3+p2s3) + plot_layout(guides = "collect")
 f32=(b1+b2) + plot_layout(guides = "collect")
-f31/f32 + plot_annotation(tag_levels = "a")
+f31/f32 + plot_annotation(tag_levels = list(c("a","c","b","d")))
 ggsave("figures/fig2.png", width = 9, height = 7)
 
 (p1s2+p2s2) + plot_annotation(tag_levels = "a") + plot_layout(guides = "collect")
@@ -296,26 +304,26 @@ allresults_filt %>% nrow()
 
 # histograms of E, theta ####
 (h1=ggplot(allresults_filt,
-          aes(x=factor(theta))) +
+          aes(x=factor(theta), fill = JLEsign2_mo)) +
   #facet_grid(JLEsign2_mo~SamplingInterval2, scales="free_y") +
   facet_grid(JLEsign2_mo~., scales="free_y") +
   #geom_vline(xintercept = 0, color="gray70") +
-  geom_bar() +
+  geom_bar(show.legend = F) + scale_fill_manual(values = stabilitycols) +
   labs(fill=expression(Smap~theta), #fill="Sign.\nMemory",
        x=expression(Nonlinearity~(theta))) +
   classic + removefacetbackground + scale_y_continuous(expand = expansion(mult=c(0,0.1))))
 
 (h2=ggplot(allresults_filt,
-          aes(x=E)) +
+          aes(x=E, fill = JLEsign2_mo)) +
   #facet_grid(JLEsign2_mo~SamplingInterval2, scales="free_y") +
   facet_grid(JLEsign2_mo~., scales="free_y") +
-  geom_bar() +
+  geom_bar(show.legend = F) + scale_fill_manual(values = stabilitycols) +
   labs(x=expression(Dimensionality~(E))) +
   classic + removefacetbackground +
   scale_y_continuous(expand = expansion(mult=c(0,0.1))) +
   scale_x_continuous(breaks = 1:6))
 
-h1+h2 + plot_layout(guides = "collect") + plot_annotation(tag_levels = "a")
+h2+h1 + plot_layout(guides = "collect") + plot_annotation(tag_levels = "a")
 ggsave("figures/histo_combined.png", width = 9, height = 5)
 
 with(allresults_filt, table(JLEsign2_mo, E))
