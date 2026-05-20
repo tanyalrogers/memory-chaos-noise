@@ -28,6 +28,13 @@ allresults_filt %>% filter(theta>0) %>% nrow() / nrow(allresults_filt)
 #prop chaotic
 table(allresults_filt$Group, allresults_filt$JLEsign)
 
+#prop in diff categories using diff thresholds
+
+q=c(0.001, 0.005, 0.01, 0.02, 0.03, 0.04)
+for(i in q) {
+  print(c(i,round(table(ifelse(abs(allresults_filt$JLEmean_mo)<i, "neutral", ifelse(allresults_filt$JLEmean_mo>0, "unstable", "stable")))/nrow(allresults_filt),2)))
+}
+
 #colors
 stabilitycols=rev(RColorBrewer::brewer.pal(3, "Set1"))
 
