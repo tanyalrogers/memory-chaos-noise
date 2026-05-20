@@ -47,6 +47,7 @@ stabilitycols=rev(RColorBrewer::brewer.pal(3, "Set1"))
     labs(x=expression(LE~(month^-1)), y="NSE (full model)", color="Taxonomic\nGroup", shape="Taxonomic\nGroup") +
     classic + removefacetbackground)
 ggsave("figures/fig1.png", f1a, width = 6, height = 4)
+ggsave("figures/fig1.pdf", f1a, width = 6, height = 4)
 
 # memory vs LE ####
 
@@ -72,6 +73,7 @@ ggsave("figures/fig1.png", f1a, width = 6, height = 4)
 
 f1b/f1c + plot_annotation(tag_levels = "a")
 ggsave("figures/fig3.png", width = 6, height = 7)
+ggsave("figures/fig3.pdf", width = 6, height = 7)
 
 # prediction improvement scatterplots ####
 
@@ -251,6 +253,7 @@ f31=(p1s3+p2s3) + plot_layout(guides = "collect")
 f32=(b1+b2) + plot_layout(guides = "collect")
 f31/f32 + plot_annotation(tag_levels = list(c("a","c","b","d")))
 ggsave("figures/fig2.png", width = 9, height = 7)
+ggsave("figures/fig2.pdf", width = 9, height = 7)
 
 (p1s2+p2s2) + plot_annotation(tag_levels = "a") + plot_layout(guides = "collect")
 ggsave("figures/dNSE_fullrange.png", width = 9, height = 4)
@@ -293,6 +296,7 @@ ggsave("figures/dNSE_boxplot_omiting.png", width = 9, height = 4)
 
 bs1/bs2 + plot_annotation(tag_levels = "a") #+ plot_layout(guides = "collect")
 ggsave("figures/fig4.png", width = 6, height = 6)
+ggsave("figures/fig4.pdf", width = 6, height = 6)
 
 mm=lm(meanlag_st~log10(Mass_g), data=allresults_filt %>% filter(!is.na(Mass_g) & meanlag_st>12))
 anova(mm)
